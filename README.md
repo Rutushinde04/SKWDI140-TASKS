@@ -1,4 +1,5 @@
 TASK 1A
+
 i) LandingPage:Design an HTML structure for a landing
 page using Bootstrap's grid system. Use CSS to style the elements, such as
 setting background images, fonts, and spacing. Apply Bootstrap's responsive
@@ -10,6 +11,7 @@ Customize the CSS to match your desired design, such as changing colors and
 fonts.
 
 TASK 1B
+
 i)Photo Gallery:Set up an HTML structure to showcase a photo gallery.
 Utilize Bootstrap's grid system to create a responsive layout for the gallery.
 Apply CSS to style the gallery, such as adding borders, shadows, and transitions.
